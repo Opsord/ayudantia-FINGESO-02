@@ -4,7 +4,7 @@ import java.util.UUID;
 
 public class ExampleClass {
     private UUID uuid;
-    private Integer name;
-    private String last_name;
+    private String name;
+    private String lastName;
     private int age;
 }
